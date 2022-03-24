@@ -17,3 +17,8 @@ C:\wpf_projects\Driver\Driver\obj\Debug\Driver.pdb
 C:\wpf_projects\Driver\Driver\bin\Debug\SimpleWifi.dll
 C:\wpf_projects\Driver\Driver\bin\Debug\SimpleWifi.xml
 C:\wpf_projects\Driver\Driver\obj\Debug\Driver.csproj.CopyComplete
+C:\wpf_projects\Driver\Driver\bin\Debug\MaterialDesignColors.dll
+C:\wpf_projects\Driver\Driver\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\wpf_projects\Driver\Driver\bin\Debug\MaterialDesignColors.pdb
+C:\wpf_projects\Driver\Driver\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\wpf_projects\Driver\Driver\bin\Debug\MaterialDesignThemes.Wpf.xml
